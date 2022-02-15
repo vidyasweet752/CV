@@ -1,0 +1,30 @@
+body {
+
+    background-color: #FDEBF7;
+}
+
+hr{
+    border-color:grey;
+    border-style: none none none none;
+    border-top-style:dotted;  
+    width:5%;
+    border-width:5px;
+  }
+
+  img
+  {
+      border-radius: 50%;
+  }
+
+  h1{
+
+    color: #EF6D6D;
+    font-family: cursive;
+    font-size:xx-large;
+  }
+
+  h3
+  {
+    color: #EF6D6D;
+    font-family: cursive; 
+  }
